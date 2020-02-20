@@ -30,7 +30,7 @@ const CustomDrawer = props => {
           style={{
             backgroundColor: COLOR.PRIMARY,
             padding: 15,
-            marginHorizontal: 10,
+            margin: 10,
             borderRadius: 5,
           }}>
           <Text style={{fontSize: 16}}>Logout</Text>
